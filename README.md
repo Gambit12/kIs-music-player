@@ -5,7 +5,7 @@
 
 ###Определение технических требований к приложению
 -	Read phone status & identity
--	Modify &delete the contents of your USB storage
+-	Modify & delete the contents of your USB storage
 -	Full network access
 -	Control vibration prevent phone from sleeping
 -	Change your audio settings
