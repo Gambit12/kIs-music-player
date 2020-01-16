@@ -1,17 +1,14 @@
-#Концепция продукта
+#Idea
+Our aim was to make listeting music as simple as it is possible and the application the most intuitive to meet your expectations.
 
-###Короткое описание
-Интуитивно понятный и простой в использовании музыкальный плеер для воспроизведения локальных .mp3 файлов с набором универсальных тем в минималистическом стиле.
+###Description
+An intuitive and simple in use music player for .mp3 files with palette of different themes in minimalistic style.
 
-###Определение технических требований к приложению
+###Technical requirements
 -	Read phone status & identity
--	Modify & delete the contents of your USB storage
+-	Modify & delete the contents of your storage
 -	Full network access
 -	Control vibration prevent phone from sleeping
 -	Change your audio settings
 -	Modify system settings
-
-Android 5
-
-###Потенциальная аудитория
-Мы ставили перед собой задачу сделать функцию проигрывания музыки максимально простой, а саму программу – максимально понятной; что даёт нам право назвать плеер kIs в некотором роде универсальным.
+- Android 5.0 +
